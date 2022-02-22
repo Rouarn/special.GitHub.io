@@ -28,7 +28,7 @@ a {
             <tr bgcolor="#0099CC">
               <td width="563" height="75"><div align="center"><img src="images/logo.jpg" alt="logo" width="184" height="38" vspace="0" align="top"/></div></td>
               <td width="169"><div align="center"><a href="#">游戏，热爱才懂</a></div></td>
-              <td width="180"><p align="center"><a href="index.md1">锋芒游戏APP</a></p></td>
+              <td width="180"><p align="center"><a href="1.md">锋芒游戏APP</a></p></td>
               <td width="184"><p align="center"><a href="#">关于锋芒游戏</a></p></td>
               <td width="165"><p align="center"><a href="#">人才招聘</a></p></td>
               <td width="151"><p align="center"><a href="#">客服中心</a></p></td>
